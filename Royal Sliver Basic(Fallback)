@@ -1,7 +1,7 @@
 ;设置分组标志位
-custom_proxy_group=日本线路`fallback`(日)`http://www.gstatic.com/generate_204`120
-custom_proxy_group=香港线路`fallback`(港)`http://www.gstatic.com/generate_204`120
-custom_proxy_group=台湾线路`fallback`(湾)`http://www.gstatic.com/generate_204`120
+custom_proxy_group=日本线路`fallback`(日本秘银|日本 Anycast|日本高级)`http://www.gstatic.com/generate_204`120
+custom_proxy_group=香港线路`fallback`(香港秘银|香港 Anycast|香港实验性|香港高级)`http://www.gstatic.com/generate_204`120
+custom_proxy_group=台湾线路`fallback`(台湾秘银|台湾 Anycast|台湾高级)`http://www.gstatic.com/generate_204`120
 custom_proxy_group=其它线路`select`(新加坡|美|韩|英|巴|印)
 custom_proxy_group=公主连接`select`(日本 BGP 中继 8|日本 BGP 中继 3)
 custom_proxy_group=通用代理`select`[]日本线路`[]香港线路`[]台湾线路`[]其它线路`[]公主连接`[]DIRECT

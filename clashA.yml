@@ -15,7 +15,7 @@ external-controller: '127.0.0.1:9090'
 
 # 实验性功能
 experimental:
-  ignore-resolve-fail: true # 忽略 DNS 解析失败，默认值为 true
+  ignore-resolve-fail: true
   
 dns:
   enable: true
@@ -23,7 +23,7 @@ dns:
   listen: 127.0.0.1:2828
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
-  fake-ip-filter: # fake ip 白名单列表，如果你不知道这个参数的作用，请勿修改
+  fake-ip-filter: fake ip
      - '*.lan'
      - localhost.ptlogin2.qq.com
   nameserver:

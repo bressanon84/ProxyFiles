@@ -28,13 +28,14 @@ dns:
      - localhost.ptlogin2.qq.com
   nameserver:
      - 223.5.5.5
-     - 1.0.0.1
-     - 1.2.4.8
+     - 180.76.76.76
+     - 119.29.29.29
      - 117.50.11.11
+     - 114.114.114.114
      - https://dns.alidns.com/dns-query
   fallback:
-     - 8.8.8.8 # 谷歌DNS
-     - 1.1.1.1 # Cloudflare DNS
+     - 8.8.8.8
+     - 1.1.1.1
      - tls://dns.rubyfish.cn:853
      - tls://1.0.0.1:853
      - tls://dns.google:853
@@ -45,7 +46,7 @@ dns:
      geoip: true
      ipcidr:
        - 240.0.0.0/4
-
+       
 cfw-bypass-bak:
   # 原有字段不用删除
   - qq.com

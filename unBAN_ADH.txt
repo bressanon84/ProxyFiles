@@ -1,5 +1,5 @@
-manmanbuy.com
-trade-acs.m.taobao.com
-item.taobao.com
-s2.ax1x.com
-api.m.jd.com
+@@||manmanbuy.com
+@@||trade-acs.m.taobao.com
+@@||item.taobao.com
+@@||s2.ax1x.com
+@@||api.m.jd.com

@@ -4,8 +4,7 @@
 @@||item.taobao.com^
 @@||s2.ax1x.com^
 @@||api.m.jd.com^
-#@@||m.taobao.com
-#@@||ut.taobao.com
+@@||ut.taobao.com^
 @@||tce.alicdn.com^
 @@||tbskip.taobao.com^
 @@||arms-retcode.aliyuncs.com^

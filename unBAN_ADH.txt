@@ -6,6 +6,6 @@
 @@||api.m.jd.com^
 #@@||m.taobao.com
 #@@||ut.taobao.com
-@@||tce.alicdn.com^$important
-@@||tbskip.taobao.com^$important
-@@||arms-retcode.aliyuncs.com^$important
+@@||tce.alicdn.com^
+@@||tbskip.taobao.com^
+@@||arms-retcode.aliyuncs.com^

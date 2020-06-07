@@ -1,8 +1,8 @@
-@@||manmanbuy.com
-# @@||trade-acs.m.taobao.com
-# @@||amdc.m.taobao.com
-@@||item.taobao.com
-@@||s2.ax1x.com
-@@||api.m.jd.com
-@@||m.taobao.com
-@@||ut.taobao.com
+@@||manmanbuy.com^
+@@||trade-acs.m.taobao.com^
+@@||amdc.m.taobao.com^
+@@||item.taobao.com^
+@@||s2.ax1x.com^
+@@||api.m.jd.com^
+#@@||m.taobao.com
+#@@||ut.taobao.com

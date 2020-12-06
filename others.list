@@ -8,3 +8,5 @@ DOMAIN-SUFFIX,openwrt.proxy.ustclug.org
 DOMAIN-SUFFIX,auroraoss.com
 DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,emby.media
+DOMAIN-SUFFIX,image.tmdb.org
+DOMAIN-SUFFIX,www.themoviedb.org

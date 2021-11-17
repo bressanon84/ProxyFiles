@@ -6,3 +6,12 @@ DOMAIN-SUFFIX,servarr.com
 DOMAIN-SUFFIX,torrentapi.org
 DOMAIN-SUFFIX,api.ipify.org
 DOMAIN-SUFFIX,api.trakt.tv
+# For Disney+
+DOMAIN,cdn.registerdisney.go.com
+DOMAIN-KEYWORD,dssott.com
+DOMAIN-SUFFIX,edge.bamgrid.com
+DOMAIN-SUFFIX,www.disneyplus.com
+DOMAIN-SUFFIX,dssott-cds.s.llnwi.net
+DOMAIN-SUFFIX,alphacdn.net
+DOMAIN-SUFFIX,dss.map.fastly.net
+DOMAIN-SUFFIX,disney-plus.net

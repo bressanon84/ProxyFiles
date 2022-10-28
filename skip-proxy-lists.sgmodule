@@ -1,0 +1,8 @@
+#!name=Skip Proxy Lists
+#!desc=跳过数字天津的代理检测
+
+[General]
+
+skip-proxy = %APPEND% ip-api.com
+
+## 数字天津app

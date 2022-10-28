@@ -3,6 +3,6 @@
 
 [General]
 
-skip-proxy = %APPEND% ip-api.com
+skip-proxy = ip-api.com
 
 ## 数字天津app

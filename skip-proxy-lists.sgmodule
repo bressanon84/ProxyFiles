@@ -3,6 +3,6 @@
 
 [General]
 
-skip-proxy = api-fd.dutils.com
+skip-proxy = *.dutils.com
 
 ## 数字天津app

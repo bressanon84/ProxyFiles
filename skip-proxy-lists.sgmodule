@@ -3,6 +3,6 @@
 
 [General]
 
-skip-proxy = %APPEND% *.dutils.com,sdk.push.mob.com
+skip-proxy = %APPEND% dutils.com,sdk.push.mob.com
 
 ## 数字天津app
